@@ -1,8 +1,8 @@
 {
-    "name": "Colorful-HC-Theme-mh",
+    "name": "colorful-hc-theme",
     "displayName": "Colorful-HC-Theme",
     "description": "High contrast colorful theme",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.44.0"
     },
@@ -14,7 +14,7 @@
             {
                 "label": "Colorful High Contrast Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Colorful High Contrast Theme-color-theme.json"
+                "path": "./themes/Colorful High Contrast-color-theme.json"
             }
         ]
     }

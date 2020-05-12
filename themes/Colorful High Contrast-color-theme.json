@@ -1,6 +1,6 @@
 {
 	"name": "Colorful High Contrast Theme",
-	"type": "dark",
+	"type": "dark ",
 	"colors": {
 		"activityBar.background": "#d62f2f",
 		"activityBar.foreground": "#ffffff", 
